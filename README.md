@@ -1,1 +1,1 @@
-you really wanna know what a repository named "joe mama" does???
+This is just a simple little java project I made.
