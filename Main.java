@@ -1,5 +1,9 @@
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        String[] names = {"Bob", "Joe", "Mama"};
+        for (String name : names) {
+            System.out.println(name);
+        }
     }
 }
