@@ -1,1 +1,1 @@
-This is just a simple little java project I made.
+This little C project I've made turns lowercase strings into uppercase strings.
