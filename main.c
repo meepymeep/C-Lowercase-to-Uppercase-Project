@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 
 static char* to_upper(char* str) {
     if (str != "") {
@@ -48,5 +49,6 @@ int main(int argc, char* argv[]) {
 
     printf("%s\n", uppername);
 
+    getch();
     return 0;
 }
